@@ -6,7 +6,7 @@
 
 "config": {
     
-    "document-root": "AVOCASH1.0"
+    "document-root": "../avocash1.0/index.php"
   }
 
 }
