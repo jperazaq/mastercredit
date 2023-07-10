@@ -1,10 +1,10 @@
 <?php
 
 
-$servername = "127.0.0.1";
-$username = "root";
-$password = "";
-$dbname = "avocashdb";
+$servername = "us-cdbr-east-06.cleardb.net";
+$username = "b7cc13776bb8cb";
+$password = "72f6e4a6";
+$dbname = "heroku_e3e92d30f4b0434";
 
 // Establecer la conexión
 $conn = new mysqli($servername, $username, $password, $dbname);
