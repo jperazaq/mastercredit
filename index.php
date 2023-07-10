@@ -20,8 +20,8 @@
           <div class="col-md-8 col-lg-6 col-xxl-3">
             <div class="card mb-0">
               <div class="card-body">
-                <a href="./index.html" class="text-nowrap logo-img text-center d-block py-3 w-100">
-                  <img src="../assets/images/logos/para fondos claros (2).jpg" width="250" alt="">
+                <a href="./index.php" class="text-nowrap logo-img text-center d-block py-3 w-100">
+                  <img src="../avocash1.0/src/assets/images/logos/para fondos claros (2).jpg" (2).jpg" width="250" alt="">
                 </a>
                
                 <form method="POST">
