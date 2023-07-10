@@ -93,7 +93,7 @@
             },
             "autoload": {
                 "psr-4": {
-                    "Dflydev\\DotAccessData\\": "src/"
+                    "Dflydev\\DotAccessData\\": "index.php"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
